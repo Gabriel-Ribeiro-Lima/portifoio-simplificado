@@ -33,3 +33,8 @@ function mostrarMaisProjetos() {
         projetoInativo.classList.add('ativo');
     });
 }
+
+
+
+
+
